@@ -45,74 +45,74 @@ This section contains screenshots of each page that was built, at varying screen
 
 Large screen:
 
-![Landing page large screen](Images/landing-lg.png)
+![Landing page large screen](Screenshots/landing-lg.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](Screenshots/landing-sm.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](Screenshots/comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](Screenshots/comparison-sm.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![data page large screen](Screenshots/data-lg.png)
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data page small screen](Screenshots/data-sm.png)
 
 #### <a id="visualisation-pages"></a>Visualisation pages
 
 Max Temperature - Large screen:
 
-![max_temp large screen](Images/max-temp-lg.png)
+![max_temp large screen](Screenshots/max-temp-lg.png)
 
 Small screen:
 
-![max_temp page small screen](Images/max-temp-sm.png)
+![max_temp page small screen](Screenshots/max-temp-sm.png)
 
 Humidity - Large screen:
 
-![humidity page large screen](Images/humidity-lg.png)
+![humidity page large screen](Screenshots/humidity-lg.png)
 
 Small screen:
 
-![humidity page small screen](Images/humidity-sm.png)
+![humidity page small screen](Screenshots/humidity-sm.png)
 
 Cloudiness - Large screen:
 
-![cloudiness page large screen](Images/cloudiness-lg.png)
+![cloudiness page large screen](Screenshots/cloudiness-lg.png)
 
 Small screen:
 
-![cloudiness page small screen](Images/cloudiness-sm.png)
+![cloudiness page small screen](Screenshots/cloudiness-sm.png)
 
 Wind Speed - Large screen:
 
-![wind_speed page large screen](Images/wind-speed-lg.png)
+![wind_speed page large screen](Screenshots/wind-speed-lg.png)
 
 Small screen:
 
-![wind_speed page small screen](Images/wind-speed-sm.png)
+![wind_speed page small screen](Screenshots/wind-speed-sm.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![nav menu large screen](Screenshots/nav-lg.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![nav menu small screen](Screenshots/nav-sm.png)
 
 
 ## References
