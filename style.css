@@ -1,6 +1,6 @@
 /* Body */
 body {
-    background-color: #b9d1ce;
+    background-color: #e3eeed;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
@@ -75,10 +75,11 @@ th {
     padding:inherit;
     color:#296059!important;
     font-weight:bold!important;
+    background-color:#e3eeed!important;
 }
 
 .navbar-brand:hover {
-    color:white!important;
+    color:#88c5be!important;
 }
 
 .nav-link {
@@ -87,4 +88,27 @@ th {
 
 .nav-link:hover {
     background-color:#b9d1ce!important;
+}
+
+/* Media query to change colour of navbar for small screen */
+@media (max-width: 992px) {
+    .navbar-expand-lg {
+        background-color:#88c5be!important;
+    }
+    .navbar-brand {
+        background-color: #296059!important;
+        color:#e3eeed!important;
+    }
+
+    #navbarSupportedContent {
+        background-color: #ffffff!important;
+    }
+
+    .nav-link {
+        color: #296059!important;
+    }
+
+    button {
+        background-color:#296059!important;
+    }
 }
